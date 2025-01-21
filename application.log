@@ -1,0 +1,10 @@
+Nov 13, 2024 1:12:01 AM dao.DAO_Produk <init>
+INFO: DAO_Produk instance created.
+Nov 13, 2024 1:12:19 AM dao.DAO_Produk tambahData
+INFO: Produk berhasil ditambahkan: kerbau dengan ID 2411003
+Nov 13, 2024 1:12:21 AM dao.DAO_Produk <init>
+INFO: DAO_Produk instance created.
+Nov 13, 2024 1:13:26 AM dao.DAO_Produk tambahData
+INFO: Produk berhasil ditambahkan: wop dengan ID 2411004
+Nov 13, 2024 1:13:27 AM dao.DAO_Produk <init>
+INFO: DAO_Produk instance created.
